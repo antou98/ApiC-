@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "GPrFJNpxaUryFnt0tIGHmTIhVGVilAdC45rkrEy6nrumvJKySoCVQGtJHyORgOb17QcjlR8//vbhF6adWs2YdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antou\\Desktop\\c#api\\Api\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antou\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.11\\microsoft.aspnetcore.authentication.negotiate.6.0.11.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.11\\microsoft.aspnetcore.connections.abstractions.6.0.11.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\microsoft.extensions.features\\6.0.11\\microsoft.extensions.features.6.0.11.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\antou\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
